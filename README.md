@@ -16,3 +16,5 @@ Sistem analisis indeks literasi di Indonesia ini disusun untuk menyelesaikan tug
 ## Hasil
 
 Sistem penghitungan indeks literasi sudah ter-deploy pada situs berikut ini - https://huggingface.co/spaces/leomatt547/indeks_literasi
+
+<img src="https://github.com/alvinwilta/indeks-literasi/blob/main/indeks_literasi_app.png">
