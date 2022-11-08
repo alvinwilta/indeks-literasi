@@ -2,6 +2,8 @@
 
 Sistem analisis indeks literasi di Indonesia ini disusun untuk menyelesaikan tugas IF4070 Representasi Pengetahuan dan Penalaran. Sistem ini adalah sistem yang dapat menganalisis indeks literasi di Indonesia menggunakan model pembelajaran mesin yang dilatih dengan data pada open data indonesia.
 
+Data yang digunakan berasal dari data Perpustakaan Nasional Indonesia dan bisa diakses dari tautan berikut ini: https://katalog.data.go.id/dataset/indeks-pembangunan-literasi-masyarakat-2021
+
 ## Kolaborator
 
 - Alvin Wilta - 13519163
