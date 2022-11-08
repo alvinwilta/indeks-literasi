@@ -10,8 +10,20 @@ Sistem analisis indeks literasi di Indonesia ini disusun untuk menyelesaikan tug
 
 ## Kakas yang digunakan
 
+- Python
+- Jupyter Notebook
+
+Library:
 - sklearn
 - gradio
+
+## Detail Sistem
+
+Pada repositori ini terdapat 3 file penting, berikut deskripsi dari masing-masing file:
+
+1. **indeks_literasi_notebook.ipynb** - file ini merupakan file hasil analisis menggunakan Data Science terhadap Indeks Pembangunan Literasi Masyarakat di Indonesia
+2. **model_iplm.pkl** - Model hasil latih pembelajaran mesin yang dilakukan dalam notebook
+3. **app.py** - Aplikasi yang mengimplementasikan model hasil pembelajaran untuk dapat digunakan sebagai sistem prediksi Indeks Pembangunan Literasi Masyarakat di Indonesia
 
 ## Hasil
 
