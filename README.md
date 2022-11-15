@@ -4,12 +4,6 @@ Sistem analisis indeks literasi di Indonesia ini disusun untuk menyelesaikan tug
 
 Data yang digunakan berasal dari data Perpustakaan Nasional Indonesia dan bisa diakses dari tautan berikut ini: https://katalog.data.go.id/dataset/indeks-pembangunan-literasi-masyarakat-2021
 
-## Kolaborator
-
-- Alvin Wilta - 13519163
-- Leonard Matheus - 13519215
-- Hughie Alghaniyyu Emiliano - 13519217
-
 ## Kakas yang digunakan
 
 - Python
